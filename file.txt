@@ -5,3 +5,4 @@ change 4
 change 5
 change 1 - branch 1
 change 2 - branch 1
+change 6
